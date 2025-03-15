@@ -13,11 +13,11 @@ function App() {
       element: <GettingStarted />
     },
     {
-      path: '/expanse-tracker/login',
+      path: '/login',
       element: <Login />
     },
     {
-      path: '/expanse-tracker/dashboard',
+      path: '/dashboard',
       element: <Dashboard />
     },
   ])
