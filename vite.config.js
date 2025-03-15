@@ -6,5 +6,5 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: '/expanse-tracker'
+  base: '/expanse-tracker/'
 })
