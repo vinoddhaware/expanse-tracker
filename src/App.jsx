@@ -9,15 +9,15 @@ function App() {
 
   const router = createBrowserRouter([
     {
-      path: '/',
+      path: '/expanse-tracker',
       element: <GettingStarted />
     },
     {
-      path: '/login',
+      path: '/expanse-tracker/login',
       element: <Login />
     },
     {
-      path: '/dashboard',
+      path: '/expanse-tracker/dashboard',
       element: <Dashboard />
     },
   ])
