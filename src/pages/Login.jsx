@@ -24,7 +24,7 @@ const Login = () => {
     if(!loginData.totalBal) return alert("enter total balance")
     if(!loginData.incomePerMonth) return alert("enter monthly income")
     setLoginInf(loginData)
-    navigate('/dashboard')    
+    navigate('/expanse-tracker/dashboard')    
   }
 
   return (

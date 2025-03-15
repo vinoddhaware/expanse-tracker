@@ -11,7 +11,7 @@ const GettingStarted = () => {
                 <h1 className='text-4xl'> Welcome to EXPENSEX. </h1>
             </div>
             <div className='text-6xl'>
-                <NavLink to={'/login'}> <IoIosArrowDroprightCircle /> </NavLink>
+                <NavLink to={'/expanse-tracker/login'}> <IoIosArrowDroprightCircle /> </NavLink>
             </div>
         </div>
         <p> The best way to track your expanses. </p>
