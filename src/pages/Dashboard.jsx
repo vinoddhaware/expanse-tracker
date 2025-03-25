@@ -23,7 +23,7 @@ const Dashboard = () => {
     }
 
   return (
-    <div className='min-h-screen bg-black'>
+    <div className='min-h-screen dark:bg-gray-950'>
         <div className='w-[90%] sm:w-[70%] md:w-[60%] lg:w-[50%]  mx-auto text-white flex flex-col gap-2 py-6'>
             <div className='flex justify-between items-center'>
             <span className='font-semibold'>Dashboard</span>
