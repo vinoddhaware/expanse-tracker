@@ -1,12 +1,15 @@
-# React + Vite
+<h1 align="center"> Expanse Tracker </h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h3 align="start">starting page </h3>
 
-Currently, two official plugins are available:
+![expanse-tracker1](https://github.com/user-attachments/assets/c559c337-35fc-42ab-a1fc-eb91da2d63d8)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h3 align="start">Login page </h3>
 
-## Expanding the ESLint configuration
+![expanse-tracker2](https://github.com/user-attachments/assets/776c2cbb-b424-496e-8170-5a9b262d2ce7)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<h3 align="start">User Dashboard </h3>
+
+![expanse-tracker](https://github.com/user-attachments/assets/3a220723-0308-4abb-b88b-5db2f655f385)
+
+<h3 align="center"> <a href="https://vinoddhaware.github.io/expanse-tracker/dashboard"> Access Here ->  </a> </h3>
