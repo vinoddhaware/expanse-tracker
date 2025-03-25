@@ -1,6 +1,6 @@
 <h1 align="center"> Expanse Tracker </h1>
 
-<h1 align="center">starting page </h1>
+<h1 align="start">starting page </h1>
 
 ![expanse-tracker1](https://github.com/user-attachments/assets/c559c337-35fc-42ab-a1fc-eb91da2d63d8)
 
