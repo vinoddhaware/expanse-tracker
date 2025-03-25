@@ -28,7 +28,7 @@ const Login = () => {
   }
 
   return (
-    <div className='flex flex-col justify-center items-center min-h-screen bg-gradient-to-br dark:bg-gray-950 text-white'>
+    <div className='flex flex-col justify-center items-center min-h-screen bg-gradient-to-br from-black to-gray-900 via-red-900 text-white'>
       <form onSubmit={handleFormSubmit} className='flex flex-col justify-center items-start gap-3'>
         <p> You are just one step away! </p>
         <div className='flex flex-col justify-center items-center bg-white/10 p-10 rounded-3xl gap-8'>
